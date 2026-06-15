@@ -1,0 +1,6 @@
+{
+  "name": "Smart Traffic Management System",
+  "description": "Real-time vehicle flow tracking, adaptive signal control optimization, and simulated live computer vision camera detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
